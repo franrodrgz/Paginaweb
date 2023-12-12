@@ -2,7 +2,7 @@
 <feed xml:lang="es" xml:base="https://franrodrgz.github.io/paginaweb/">
 <id>https://franrodrgz.github.io/paginaweb/</id>
 <title>Francisco José Rodríguez Muñoz (atom)</title>
-<updated>Tue, 12 Dec 2023 09:16:00 +0100</updated>
+<updated>Tue, 12 Dec 2023 09:16:00 +01:00</updated>
 <link rel="alternate" href="https://franrodrgz.github.io/paginaweb/atom.xml"/>
 <author>
 <name>Francisco José Rodríguez Muñoz</name>
@@ -13,7 +13,7 @@
 <entry>
 <id>https://franrodrgz.github.io/paginaweb/LenguajesdeMarca.html</id>
 <title>XML</title>
-<update>Tue, 12 Dec 2023 09:16:00 +0100</update>
+<update>Tue, 12 Dec 2023 09:16:00 +01:00</update>
 <author>
 <name>Francisco José Rodríguez Muñoz</name>
 <email>romufr_aliesma20@iesmedinaazahara.es</email>
@@ -24,7 +24,7 @@
 <entry>
 <id>https://franrodrgz.github.io/paginaweb/LenguajesdeMarca.html</id>
 <title>HTML</title>
-<update>Tue, 12 Dec 2023 09:16:00 +0100</update>
+<update>Tue, 12 Dec 2023 09:16:00 +01:00</update>
 <author>
 <name>Francisco José Rodríguez Muñoz</name>
 <email>romufr_aliesma20@iesmedinaazahara.es</email>
@@ -35,7 +35,7 @@
 <entry>
 <id>https://franrodrgz.github.io/paginaweb/LenguajesdeMarca.html</id>
 <title>Entidad Relacion</title>
-<update>Tue, 12 Dec 2023 09:16:00 +0100</update>
+<update>Tue, 12 Dec 2023 09:16:00 +01:00</update>
 <author>
 <name>Francisco José Rodríguez Muñoz</name>
 <email>romufr_aliesma20@iesmedinaazahara.es</email>
@@ -46,7 +46,7 @@
 <entry>
 <id>https://franrodrgz.github.io/paginaweb/LenguajesdeMarca.html</id>
 <title>Modelo Relacional</title>
-<update>Tue, 12 Dec 2023 09:16:00 +0100</update>
+<update>Tue, 12 Dec 2023 09:16:00 +01:00</update>
 <author>
 <name>Francisco José Rodríguez Muñoz</name>
 <email>romufr_aliesma20@iesmedinaazahara.es</email>
