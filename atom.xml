@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="es" xml:base="https://franrodrgz.github.io/paginaweb/">
 <id>https://franrodrgz.github.io/paginaweb/</id>
-<title>Página Web</title>
+<title>Francisco José Rodríguez Muñoz (atom)</title>
 <updated>Tue, 12 Dec 2023 09:16:00 +0100</updated>
 <link rel="alternate" href="https://franrodrgz.github.io/paginaweb/atom.xml"/>
 <author>
@@ -9,7 +9,6 @@
 <email>romufr_aliesma20@iesmedinaazahara.es</email>
 </author>
 <category term="1asir/portfolio"/>
-<logo>servidores.jpg</logo>
 <entry>
 <id>
 https://franrodrgz.github.io/paginaweb/LenguajesdeMarca.html
