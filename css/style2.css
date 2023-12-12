@@ -96,8 +96,10 @@ body {
     padding: 20px 100px;
 }
 footer {
-    display: flex;
-    align-items: center;
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
 }
 
         @media all and (max-width: 1120px) 
